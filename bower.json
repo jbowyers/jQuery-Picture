@@ -1,0 +1,30 @@
+﻿{
+	"name": "jQuery-Picture",
+	"version": "0.0.9",
+	"main": "./js/jquery-picture.js",
+	"ignore": [
+		"_notes",
+		"bower_components",
+		"node_modules",
+		"demo",
+		"src",
+		"test",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "Gruntfile.js",
+		"LICENCE.txt",
+        "package.json",
+        "README.md"
+    ],
+	"dependencies": {
+        "jquery": "latest"
+    },
+    "devDependencies": {
+        
+    },
+	"private": false
+}
+
