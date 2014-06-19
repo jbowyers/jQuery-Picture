@@ -1,7 +1,7 @@
 {
 	"name": "jQuery-Picture-jbowyers",
 	"version": "0.0.9",
-	"main": "js/jquery-picture.js",
+	"main": ["js/jquery-picture.js"],
 	"ignore": [
 		"_notes",
 		"bower_components",
