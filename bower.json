@@ -2,6 +2,7 @@
 	"name": "jQuery-Picture-jbowyers",
 	"version": "0.0.9",
 	"main": ["js/jquery-picture.js"],
+	"licence":"MIT",
 	"ignore": [
 		"_notes",
 		"bower_components",
@@ -25,6 +26,11 @@
     "devDependencies": {
         
     },
-	"private": false
+	"keywords": [
+		"jquery-picture",
+		"jquery",
+		"javascript",
+		"library"
+	]
 }
 
