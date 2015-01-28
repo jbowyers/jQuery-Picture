@@ -1,7 +1,7 @@
 {
 	"name": "jQuery-Picture-jbowyers",
-	"version": "0.0.9",
-	"main": ["js/jquery-picture.js"],
+	"version": "0.0.10",
+	"main": ["js/jquery-picture.js", "js/jquery-picture-min.js" ],
 	"licence":"MIT",
 	"ignore": [
 		"_notes",
